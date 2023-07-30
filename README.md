@@ -1,7 +1,7 @@
 # Запуск приложения
 
-Приложение создано на основе шаблона Expo Go (npx create-expo-app sm-news), по рекомендации https://reactnative.dev/docs/environment-setup.
-Для проверки приложения:
+Приложение создано на основе шаблона Expo Go (npx create-expo-app sm-news), по рекомендации https://reactnative.dev/docs/environment-setup.  
+Для проверки приложения:  
 -предварительно установил себе на телефон приложение Expo Go;  
 -npx expo start из папки проекта;  
 -в консоле появлялся QR-код;  
